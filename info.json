@@ -1,0 +1,12 @@
+{
+  "name" : "quality-hell",
+  "version": "1.0.0",
+  "title" : "Quality Hell",
+  "author" : "Flowire",
+  "homepage" : "https://github.com/FlowireXen/quality-hell",
+  "description" : "Machines, miners, enemies, asteroids and even your hands have a base quality! Enjoy your time in Quality Hell <3    Fully configurable, set anything to \"0%\" to disable the mechanic!",
+  "factorio_version" : "2.1",
+  "dependencies" : ["base >= 2.1", "quality >= 2.1", "? space-age >= 2.1"],
+  "quality_required" : "true",
+  "prefix" : ["SEMBY", "QH"]
+}
