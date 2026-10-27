@@ -6,7 +6,8 @@
 ___
 # Quality Hell
 
-Machines, miners, enemies, asteroids and even your hands have a base quality!<br>Enjoy your time in Quality Hell <3
+Machines, miners, enemies, asteroids and even your hands have a base quality!  
+Enjoy your time in Quality Hell <3
 
 # Features
 
@@ -27,17 +28,21 @@ Machines, miners, enemies, asteroids and even your hands have a base quality!<br
 
 * Compatible with modded enemies and qualities
 
-* Everything listed here is fully configurable, set anything to<br>"0" to disable it and increase compatibility with other mods!
+* Everything listed here is fully configurable, set anything to "0" to disable it and increase compatibility with other mods!
 
 * Human-made, no AI used!
 
-<small>* Affected by the distance from spawn and by the planets evolution</small>
+\* Affected by the distance from spawn and by the planets evolution
 
 # Inspired by
 
-This mod draws inspiration from [Everything has Quality](https://mods.factorio.com/mod/quality-everything) (by LuckyLMJ),<br>[Biter Nest Quality!](https://mods.factorio.com/mod/BiterNestQuality) (by trustworhty) and [Quality Asteroids Expanded](https://mods.factorio.com/mod/Quality-Asteroids-Expanded) (by thesixthroc),<br>go check out their mods!
+This mod draws inspiration from [Everything has Quality](https://mods.factorio.com/mod/quality-everything) (by LuckyLMJ),  
+[Biter Nest Quality!](https://mods.factorio.com/mod/BiterNestQuality) (by trustworhty) and [Quality Asteroids Expanded](https://mods.factorio.com/mod/Quality-Asteroids-Expanded) (by thesixthroc),  
+go check out their mods!
 
-Just note that "Quality Hell" is likely incompatible with "Everything has Quality" and "Biter Nest Quality!".<br>For "Quality Asteroids Expanded" you need to set my "Asteroids quality-chance"-setting to "0".
+Just note that "Quality Hell" is likely incompatible with "Everything has Quality" and "Biter Nest Quality!".  
+For "Quality Asteroids Expanded" you need to set my "Asteroids quality-chance"-setting to "0".
+
 
 # Links
 
